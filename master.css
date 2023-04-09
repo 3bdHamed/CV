@@ -1,0 +1,168 @@
+<<<<<<< Updated upstream
+body {
+  background-color: antiquewhite;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.home {
+  background-color: #8a2be266;
+  border: 2px blueviolet solid;
+  height: 27px;
+  padding: 4px;
+  font-size: 15px;
+}
+
+.page {
+  background-color: rgb(231, 241, 250);
+}
+
+.div {
+  background-color: antiquewhite;
+}
+
+.back {
+  background-color: rgb(218, 199, 245);
+}
+
+.pod {
+  background-color: rgb(194, 237, 223);
+}
+
+.footer {
+  background-color: rgb(137, 136, 136);
+}
+
+.img {
+  width: 200px;
+  border: 2px rgb(187, 159, 159) solid;
+  border-radius: 40px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  -ms-border-radius: 40px;
+  -o-border-radius: 40px;
+}
+
+.link {
+  width: 150px;
+  background-color: #8a2be266;
+  border: 2px blueviolet solid;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  padding: 6px;
+  height: 32px;
+  display: inline-block;
+}
+
+
+
+
+
+hr {
+  border: 1px solid;
+  margin: 15px auto;
+  width: 50%;
+}
+
+.fbot {
+  background-color: black;
+  border: 2px blueviolet solid;
+  height: 26px;
+  width: 86px;
+  padding: 4px;
+}
+
+.contact {
+  color: antiquewhite;
+  text-decoration: none;
+=======
+body {
+  background-color: antiquewhite;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.home {
+  background-color: #8a2be266;
+  border: 2px blueviolet solid;
+  height: 27px;
+  padding: 4px;
+  font-size: 15px;
+}
+
+.page {
+  background-color: rgb(231, 241, 250);
+}
+
+.div {
+  background-color: antiquewhite;
+}
+
+.back {
+  background-color: rgb(218, 199, 245);
+}
+
+.pod {
+  background-color: rgb(194, 237, 223);
+}
+
+.footer {
+  background-color: rgb(137, 136, 136);
+}
+
+.img {
+  width: 200px;
+  border: 2px rgb(187, 159, 159) solid;
+  border-radius: 40px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  -ms-border-radius: 40px;
+  -o-border-radius: 40px;
+}
+
+.link {
+  width: 150px;
+  background-color: #8a2be266;
+  border: 2px blueviolet solid;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  padding: 6px;
+  height: 32px;
+  display: inline-block;
+}
+
+
+
+
+
+hr {
+  border: 1px solid;
+  margin: 15px auto;
+  width: 50%;
+}
+
+.fbot {
+  background-color: black;
+  border: 2px blueviolet solid;
+  height: 26px;
+  width: 86px;
+  padding: 4px;
+}
+
+.contact {
+  color: antiquewhite;
+  text-decoration: none;
+>>>>>>> Stashed changes
+}
